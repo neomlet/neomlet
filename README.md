@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=neomlet&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" style="max-width: 100%;">
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neomlet&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&exclude_repo=archived-repos" alt="Top Langs" style="max-width: 100%;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neomlet&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&exclude_repo=archived-repos" alt="Top Langs" style="max-width: 150%;">
     </td>
   </tr>
 </table>
