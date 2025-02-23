@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Neo+Mlet;Web3+%26+AI+Developer;You're+the:" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Neomlet;Web3+%26+AI+Developer;You're+the:" alt="Typing SVG">
   <img src="https://count.getloli.com/get/@neomlet?theme=moebooru" alt="Visitor Counter" width="300"/>
 </div>
 
 <div align="center" style="margin: 40px 0">
-  [<img src="assets/smoking0man3_with_background.gif" width="400">](https://twitter.com/neomlet)
+  [<img src="assets/smoking0man3_with_background.gif" width="400">]
 </div>
 
 *Artwork courtesy of [ythu](https://twitter.com/1015yzhu); all rights reserved*
