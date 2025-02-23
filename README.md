@@ -45,13 +45,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/otoamatsukami)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:good.bqw@gmail.com)
 
-<details>
-<summary>📊 Weekly Development Breakdown</summary>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45hrs%20last%207d-blue)
-![Languages](https://img.shields.io/badge/TypeScript-62%25-blueviolet)
-![Frameworks](https://img.shields.io/badge/React-38%25-61DAFB)
-<!--END_SECTION:waka-->
-
 </details>
