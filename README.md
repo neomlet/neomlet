@@ -44,5 +44,5 @@ _Blockchain-based voting system using Solidity and Ethereum._
 ### 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/neomlet)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)]([https://t.me/neomlet](https://t.me/otoamatsukami))
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/otoamatsukami)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:good.bqw@gmail.com)
