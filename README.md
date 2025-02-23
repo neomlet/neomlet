@@ -1,66 +1,69 @@
-# 👋 Hi, I'm Neomlet
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Neo+Mlet;Web3+%26+AI+Developer;You're+the:" alt="Typing SVG">
+  <img src="https://count.getloli.com/get/@neomlet?theme=moebooru" alt="Visitor Counter" width="300"/>
+</div>
 
-**`Digital Craftsman (Developer/Designer)`**  
+<div align="center" style="margin: 40px 0">
+  [<img src="assets/smoking0man3_with_background.gif" width="400">](https://twitter.com/neomlet)
+</div>
 
-Passionate about building innovative solutions and elegant designs. I thrive on turning complex problems into simple, beautiful, and intuitive applications. Currently exploring the realms of **AI/ML** and **web3 technologies** while contributing to open-source projects.
+*Artwork courtesy of [ythu](https://twitter.com/1015yzhu); all rights reserved*
 
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-### 📈 Real-Time Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomlet&show_icons=true&theme=radical&cache_seconds=300)](https://github.com/neomlet)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neomlet&layout=compact&theme=radical)](https://github.com/neomlet)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neomlet&theme=react-dark&radius=8)](https://github.com/neomlet)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neomlet/neomlet/main/profile-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neomlet/neomlet/main/profile-snake-light.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/neomlet/neomlet/main/profile-snake.svg">
+</picture>
 
 ---
 
-### 🔥 Recent Projects
-
-#### [Crypto Dashboard](https://github.com/neomlet/crypto-dash)  
-_A real-time analytics dashboard for tracking crypto markets. Built with React, TypeScript, and CoinGecko API._  
-**Real-time Cryptocurrency Analytics & Portfolio Tracker**  
-*A dynamic dashboard for monitoring crypto markets, visualizing trends, and managing investments.*  
-
-🔍 **Features**:  
-- Live price updates for **1000+ coins** via CoinGecko API  
-- Interactive candlestick charts with historical data  
-- Customizable watchlists and portfolio allocation insights  
-- Price alerts via WebSocket and mobile notifications  
-- Dark/light mode toggle for user preference  
-
-🛠️ **Tech Stack**:  
-- React + TypeScript (frontend)  
-- Recharts/Chart.js for data visualization  
-- Zustand for state management  
-- AWS Amplify (hosting)  
-- Integrated with MetaMask for web3 interactions
-
-`#web3` `#react` `#typescript`
-
-#### [AI Text Summarizer](https://github.com/neomlet/ai-summarizer)  
-_NLP-powered tool to generate concise summaries from long text. Leverages Hugging Face Transformers._  
-`#python` `#machinelearning` `#nlp`
-
-#### [Decentralized Voting DApp](https://github.com/neomlet/voting-dapp)  
-_Blockchain-based voting system using Solidity and Ethereum._  
-`#solidity` `#web3` `#ethereum`
+### 🚀 About Me
+- 🔭 Currently building decentralized AI solutions at **Web3 Labs**
+- 🌱 Exploring GPT-4 architecture & zk-SNARKs implementations
+- 🛠️ Maintaining [hello-web3](https://web3.neomlet.dev) educational platform
+- 📝 Technical blog: [blog.neomlet.dev](https://blog.neomlet.dev)
+- 💼 Portfolio: [neomlet.dev](https://neomlet.dev)
+- 📫 Reach me: [hello@neomlet.dev](mailto:hello@neomlet.dev)
 
 ---
 
-### 🌐 Connect With Me
+### ⚡ Real-Time Stats
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/neomlet)
+![](https://raw.githubusercontent.com/neomlet/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/neomlet/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/neomlet/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/neomlet/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+---
+
+### 🔥 Active Projects
+
+#### [Crypto Dashboard](https://github.com/neomlet/crypto-dash)
+![Last Commit](https://img.shields.io/github/last-commit/neomlet/crypto-dash?color=blue&label=Updated)
+![Stars](https://img.shields.io/github/stars/neomlet/crypto-dash?style=flat-square)
+`Real-time market analytics with Web3 integration`
+
+#### [AI Text Summarizer](https://github.com/neomlet/ai-summarizer)
+![Deployment](https://img.shields.io/github/deployments/neomlet/ai-summarizer/production?label=API%20Status)
+`Transformers-based NLP pipeline`
+
+#### [Voting DApp](https://github.com/neomlet/voting-dapp)
+![Contributors](https://img.shields.io/github/contributors/neomlet/voting-dapp)
+`Decentralized governance protocol`
+
+---
+
+### 🌐 Connect
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/otoamatsukami)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:good.bqw@gmail.com)
+
+<details>
+<summary>📊 Weekly Development Breakdown</summary>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-45hrs%20last%207d-blue)
+![Languages](https://img.shields.io/badge/TypeScript-62%25-blueviolet)
+![Frameworks](https://img.shields.io/badge/React-38%25-61DAFB)
+<!--END_SECTION:waka-->
+
+</details>
