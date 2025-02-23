@@ -17,6 +17,6 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neomlet&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neomlet&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%">
 </div>
 </table>
