@@ -28,8 +28,7 @@
 
 #### [Crypto Dashboard](https://github.com/neomlet/crypto-dash)
 ![Last Commit](https://img.shields.io/github/last-commit/neomlet/crypto-dash?color=blue&label=Updated)
-![Stars](https://img.shields.io/github/stars/neomlet/crypto-dash?style=flat-square)
-`Real-time market analytics with Web3 integration`
+
 
 #### [AI Text Summarizer](https://github.com/neomlet/ai-summarizer)
 ![Deployment](https://img.shields.io/github/deployments/neomlet/ai-summarizer/production?label=API%20Status)
