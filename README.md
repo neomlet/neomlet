@@ -18,19 +18,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neomlet&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="90%">
 </div>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neomlet&theme=github_dark" alt="Repos per Lang" width="100%">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neomlet&theme=github_dark" alt="Commits per Lang" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=neomlet&theme=onedark&margin-w=15&no-frame=true&row=2&column=4" alt="Trophies" width="100%">
-    </td>
-  </tr>
 </table>
