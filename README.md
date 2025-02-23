@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/neomlet/count.svg" alt="Visitor Counter" style="margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Neomlet;Web3+%26+AI+Developer;You're+the:" alt="Typing SVG">
+  <img src="https://count.getloli.com/get/@neomlet?theme=moebooru" alt="Visitor Counter" width="300"/>
 </div>
 
 ### 📊 GitHub Analytics
