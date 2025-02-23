@@ -45,6 +45,7 @@ _A real-time analytics dashboard for tracking crypto markets. Built with React, 
 - Zustand for state management  
 - AWS Amplify (hosting)  
 - Integrated with MetaMask for web3 interactions
+
 `#web3` `#react` `#typescript`
 
 #### [AI Text Summarizer](https://github.com/neomlet/ai-summarizer)  
