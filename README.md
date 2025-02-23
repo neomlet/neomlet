@@ -18,9 +18,10 @@ Passionate about building innovative solutions and elegant designs. I thrive on 
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Real-Time Stats
 
-[![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomlet&show_icons=true&theme=radical)](https://github.com/neomlet)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomlet&show_icons=true&theme=radical&cache_seconds=300)](https://github.com/neomlet)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neomlet&theme=react-dark&radius=8)](https://github.com/neomlet)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neomlet&layout=compact&theme=radical)](https://github.com/neomlet)
 
 ---
