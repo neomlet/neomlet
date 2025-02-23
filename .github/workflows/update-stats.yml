@@ -1,14 +1,26 @@
-name: Update GitHub Stats
+name: Turbo Stats Refresh
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Каждые 30 минут
-  workflow_dispatch:
+    - cron: '*/5 * * * *'
+  push:
+    branches: [ main ]
 
 jobs:
-  update-stats:
+  refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
+
     steps:
-      - name: Trigger stats update
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=neomlet&show_icons=true&theme=radical&cache_seconds=300"
+    - uses: actions/checkout@v4
+
+    - name: Update timestamp
+      run: date +%s > timestamp
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "🔄 Stats refresh trigger"
+        file_pattern: timestamp
+        skip_fetch: true
+        branch: main
