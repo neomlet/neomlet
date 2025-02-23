@@ -29,6 +29,22 @@ Passionate about building innovative solutions and elegant designs. I thrive on 
 
 #### [Crypto Dashboard](https://github.com/neomlet/crypto-dash)  
 _A real-time analytics dashboard for tracking crypto markets. Built with React, TypeScript, and CoinGecko API._  
+**Real-time Cryptocurrency Analytics & Portfolio Tracker**  
+*A dynamic dashboard for monitoring crypto markets, visualizing trends, and managing investments.*  
+
+🔍 **Features**:  
+- Live price updates for **1000+ coins** via CoinGecko API  
+- Interactive candlestick charts with historical data  
+- Customizable watchlists and portfolio allocation insights  
+- Price alerts via WebSocket and mobile notifications  
+- Dark/light mode toggle for user preference  
+
+🛠️ **Tech Stack**:  
+- React + TypeScript (frontend)  
+- Recharts/Chart.js for data visualization  
+- Zustand for state management  
+- AWS Amplify (hosting)  
+- Integrated with MetaMask for web3 interactions
 `#web3` `#react` `#typescript`
 
 #### [AI Text Summarizer](https://github.com/neomlet/ai-summarizer)  
