@@ -1,0 +1,14 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Каждые 30 минут
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger stats update
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=neomlet&show_icons=true&theme=radical&cache_seconds=300"
