@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neo Mlet
+# 👋 Hi, I'm Neomlet
 
 **`Digital Craftsman (Developer/Designer)`**  
 
