@@ -48,7 +48,7 @@ _A real-time analytics dashboard for tracking crypto markets. Built with React, 
 
 `#web3` `#react` `#typescript`
 
-#### [AI Text Summarizer](https://github.com/neomlet/ai-summarizer)  
+#### [AI Text Summarizer](https://github.com/neomlet/ai-summorizer)  
 _NLP-powered tool to generate concise summaries from long text. Leverages Hugging Face Transformers._  
 `#python` `#machinelearning` `#nlp`
 
