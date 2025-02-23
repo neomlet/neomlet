@@ -3,18 +3,6 @@
   <img src="https://count.getloli.com/get/@neomlet?theme=moebooru" alt="Visitor Counter" width="300"/>
 </div>
 
-<div align="center" style="margin: 40px 0">
-  [<img src="assets/smoking0man3_with_background.gif" width="400">]
-</div>
-
-*Artwork courtesy of [ythu](https://twitter.com/1015yzhu); all rights reserved*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neomlet/neomlet/main/profile-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neomlet/neomlet/main/profile-snake-light.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/neomlet/neomlet/main/profile-snake.svg">
-</picture>
-
 ---
 
 ### 🚀 About Me
